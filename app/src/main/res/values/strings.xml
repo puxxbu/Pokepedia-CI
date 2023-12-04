@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pokepedia</string>
+    <string name="favorite">Favorite</string>
+    <string name="home">Home</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="pokemon_image">pokemon image</string>
+    <string name="error_something_wrong">Error: Something wrong!</string>
+    <string name="back">back</string>
+    <string name="pokemon_name">Pokemon Name</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="find_pokemon">Find Pokemon</string>
+    <string name="pokemon_not_found">Pokemon Not Found!</string>
+    <string name="pokepedia_banner">Pokepedia Banner</string>
+</resources>
