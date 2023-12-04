@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.ichsnn.pokepedia.favorite"
+    namespace = "com.puxxbu.pokepedia.favorite"
     compileSdk = 33
 
     defaultConfig {

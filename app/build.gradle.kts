@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ichsnn.pokepedia"
+    namespace = "com.puxxbu.pokepedia"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.ichsnn.pokepedia"
+        applicationId = "com.puxxbu.pokepedia"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

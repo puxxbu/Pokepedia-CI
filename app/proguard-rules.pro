@@ -21,7 +21,7 @@
 #-renamesourcefileattribute SourceFile
 
 -keep class dagger.** { *; }
--keep class com.ichsnn.pokepedia.di.FavoriteModuleDependencies { *; }
--keep class com.ichsnn.core.domain.usecase.PokemonUseCase { *; }
--keep class com.ichsnn.pokepedia.favorite.** { *; }
+-keep class com.puxxbu.pokepedia.di.FavoriteModuleDependencies { *; }
+-keep class com.puxxbu.core.domain.usecase.PokemonUseCase { *; }
+-keep class com.puxxbu.pokepedia.favorite.** { *; }
 -keep class androidx.viewbinding.ViewBinding { *; }

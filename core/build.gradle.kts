@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-    namespace = "com.ichsnn.core"
+    namespace = "com.puxxbu.core"
     compileSdk = 33
 
     defaultConfig {
